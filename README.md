@@ -12,16 +12,16 @@ A CRUD where you can manipulate a 'users' table in a restaurant database called 
 ### user.php (Main page, aka index) <a name="user"></a>
 On the left side you have a form where you can create a new user and add it to the database.
 You can also edit and delete existing users.
-![user.php](assets/img/user.png)
+![user.php](assets/img/user.PNG)
 
 ### update.php <a name="update"></a>
 This page is displayed when you click on the "Edit" button on a user in the main page.
-![update.php](assets/img/update.png)
+![update.php](assets/img/update.jpg)
 
 ### Users table (SQL)<a name="sql"></a>
 
 The MySQL script is included in this repo.
-![SQL](assets/img/sql.png)
+![SQL](assets/img/sql.PNG)
 
 #### My Socials
 <a href="https://www.linkedin.com/in/salmeron-alvarado/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Salmeron | LinkedIn" width="24px"/></a>
