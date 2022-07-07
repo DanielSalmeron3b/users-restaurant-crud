@@ -16,7 +16,7 @@ You can also edit and delete existing users.
 
 ### update.php <a name="update"></a>
 This page is displayed when you click on the "Edit" button on a user in the main page.
-![update.php](assets/img/update.jpg)
+![update.php](assets/img/update.PNG)
 
 ### Users table (SQL)<a name="sql"></a>
 
