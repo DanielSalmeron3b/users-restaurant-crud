@@ -13,6 +13,7 @@ A CRUD where you can manipulate a 'users' table in a restaurant database called 
 On the left side you have a form where you can create a new user and add it to the database.
 You can also edit and delete existing users.
 ![user.php](../assets/img/user.png)
+<img alt="WP Reliable Cookie Bar logo" src="/assets/img/user.png?raw=true" height="100" width="100" align="right">
 
 ### update.php <a name="update"></a>
 This page is displayed when you click on the "Edit" button on a user in the main page.
